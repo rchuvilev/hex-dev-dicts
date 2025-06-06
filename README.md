@@ -1,2 +1,1 @@
-# hex-dev-dicts
-Reusable enums/objects dicts for web-development
+https://github.com/rchuvilev/hex-dev-dicts.git
